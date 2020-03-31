@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/randstandupgenerator/static/css/main.75edb93e.chunk.css",
+    "main.js": "/randstandupgenerator/static/js/main.0a9215e6.chunk.js",
+    "main.js.map": "/randstandupgenerator/static/js/main.0a9215e6.chunk.js.map",
+    "runtime-main.js": "/randstandupgenerator/static/js/runtime-main.e5202e1d.js",
+    "runtime-main.js.map": "/randstandupgenerator/static/js/runtime-main.e5202e1d.js.map",
+    "static/css/2.051905ae.chunk.css": "/randstandupgenerator/static/css/2.051905ae.chunk.css",
+    "static/js/2.b8637b68.chunk.js": "/randstandupgenerator/static/js/2.b8637b68.chunk.js",
+    "static/js/2.b8637b68.chunk.js.map": "/randstandupgenerator/static/js/2.b8637b68.chunk.js.map",
+    "index.html": "/randstandupgenerator/index.html",
+    "precache-manifest.1dfcfc9387107e866d8c79e571a562c7.js": "/randstandupgenerator/precache-manifest.1dfcfc9387107e866d8c79e571a562c7.js",
+    "service-worker.js": "/randstandupgenerator/service-worker.js",
+    "static/css/2.051905ae.chunk.css.map": "/randstandupgenerator/static/css/2.051905ae.chunk.css.map",
+    "static/css/main.75edb93e.chunk.css.map": "/randstandupgenerator/static/css/main.75edb93e.chunk.css.map",
+    "static/js/2.b8637b68.chunk.js.LICENSE.txt": "/randstandupgenerator/static/js/2.b8637b68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5202e1d.js",
+    "static/css/2.051905ae.chunk.css",
+    "static/js/2.b8637b68.chunk.js",
+    "static/css/main.75edb93e.chunk.css",
+    "static/js/main.0a9215e6.chunk.js"
+  ]
+}
