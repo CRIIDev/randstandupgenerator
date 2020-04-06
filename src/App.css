@@ -1,3 +1,5 @@
+@import '../node_modules/antd/dist/antd.css';
+
 .App {
   text-align: center;
 }
@@ -7,32 +9,40 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.App-header, .App-footer {
+  text-align: center;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-content {
+  text-align: center;
+  padding: 30px;
+  min-height: 500px;
+  font-family: Avenir;
+}
+
+.App-header {
+  background-color: #FFDC00;
+  font-size: x-large;
+  font-family: Avenir;
+
+}
+
+.header-class {
+  color: teal;
+  font-size: xx-large;
+  font-family: Avenir;
+}
+
+.ant-layout-header{ height: 6vh;
+}
+
+.text-color {
+  color: #8f51ff;
+  font-size: xx-large;
+
 }
